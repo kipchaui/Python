@@ -1,0 +1,2 @@
+show chassis alarms
+show bgp summary | match 37000
