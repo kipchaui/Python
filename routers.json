@@ -1,0 +1,32 @@
+[
+ {
+        "device_type" : "juniper",
+        "host" : "172.16.0.188",
+        "username" : "evansk",
+        "password" : "wiocc1234"
+},
+{
+        "device_type" : "juniper",
+        "host" : "172.16.0.187",
+        "username" : "evansk",
+        "password" : "wiocc1234"
+},
+{
+        "device_type" : "juniper",
+        "host" : "172.16.0.186",
+        "username" : "evansk",
+        "password" : "wiocc1234"
+},
+{
+        "device_type" : "juniper",
+        "host" : "172.16.0.185",
+        "username" : "evansk",
+        "password" : "wiocc1234"
+},
+{
+        "device_type" : "juniper",
+        "host" : "172.16.0.184",
+        "username" : "evansk",
+        "password" : "wiocc1234"
+}
+]
