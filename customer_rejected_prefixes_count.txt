@@ -1,0 +1,31 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~evansk@Juniper4~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Peer 10.10.10.1 ASN 37000 Rejected Prefixes Count: 3 lines
+Peer 10.10.10.2 ASN 37000 Rejected Prefixes Count: 0 lines
+Peer 10.10.10.3 ASN 37000 Rejected Prefixes Count: 0 lines
+Peer 10.10.10.5 ASN 37000 Rejected Prefixes Count: 0 lines
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~evansk@Juniper3~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Peer 10.10.10.1 ASN 37000 Rejected Prefixes Count: 3 lines
+Peer 10.10.10.2 ASN 37000 Rejected Prefixes Count: 0 lines
+Peer 10.10.10.4 ASN 37000 Rejected Prefixes Count: 0 lines
+Peer 10.10.10.5 ASN 37000 Rejected Prefixes Count: 0 lines
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~evansk@Juniper4~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Peer 10.10.10.1 ASN 37000 Rejected Prefixes Count: 3 lines
+Peer 10.10.10.2 ASN 37000 Rejected Prefixes Count: 0 lines
+Peer 10.10.10.3 ASN 37000 Rejected Prefixes Count: 0 lines
+Peer 10.10.10.5 ASN 37000 Rejected Prefixes Count: 0 lines
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~evansk@Juniper1~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Peer 10.10.10.2 ASN 37000 Rejected Prefixes Count: 0 lines
+Peer 10.10.10.3 ASN 37000 Rejected Prefixes Count: 0 lines
+Peer 10.10.10.4 ASN 37000 Rejected Prefixes
+Count: 0 lines
+Peer 10.10.10.5 ASN 37000 Rejected Prefixes Count: 0 lines
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~evansk@Juniper5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Peer 10.10.10.1 ASN 37000 Rejected Prefixes Count: 3 lines
+Peer 10.10.10.2 ASN 37000 Rejected Prefixes Count: 0 lines
+Peer 10.10.10.3 ASN 37000 Rejected Prefixes Count: 0 lines
+Peer 10.10.10.4 ASN 37000 Rejected Prefixes Count: 0 lines
