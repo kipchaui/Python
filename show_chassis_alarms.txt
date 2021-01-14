@@ -1,0 +1,24 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~evansk@Juniper4~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+## Output of: show chassis alarms
+No alarms currently active
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~evansk@Juniper3~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+## Output of: show chassis alarms
+No alarms currently active
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~evansk@Juniper4~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+## Output of: show chassis alarms
+No alarms currently active
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~evansk@Juniper1~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+## Output of: show chassis alarms
+No alarms currently active
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~evansk@Juniper5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+## Output of: show chassis alarms
+No alarms currently active
