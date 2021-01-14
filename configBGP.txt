@@ -1,2 +1,2 @@
-set policy-options policy-statement Digital_Energy-routes term route-set1 from route-filter 212.60.0.0/22 upto /24
+set policy-options policy-statement Test-routes term route-set1 from route-filter 100.60.0.0/22 upto /24
 show | compare
