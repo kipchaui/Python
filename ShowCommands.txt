@@ -1,2 +1,3 @@
 show chassis alarms
 show bgp summary | match 37000
+show interfaces terse
